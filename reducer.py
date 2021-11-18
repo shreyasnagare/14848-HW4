@@ -1,5 +1,5 @@
-import sys
 import math
+import sys
 
 current_yearMonthDay = None
 max_temperature = -math.inf
