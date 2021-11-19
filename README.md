@@ -14,4 +14,4 @@ This is a MapReduce application to find maximum temperature in every day of year
 ![merging_results](screenshots/merging_results.png)
 
 ## GUI Demo
-![gui_demo](gui_demo.gif)
+![gui_demo](gui/gui_demo.gif)
