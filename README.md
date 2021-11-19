@@ -1,4 +1,4 @@
-# 14848-HW4 Hadoop MapReduce (with uploader GUI)
+# Hadoop MapReduce Application on GCP Dataproc (with Data Uploader GUI)
 
 This is a MapReduce application to find maximum temperature in every day of years 1901 and 1902 from the NCDC weather records.
 
